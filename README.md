@@ -6,7 +6,7 @@ projeto pessoal de interface de ecommerce usando reactjs, styled-components e co
 # como executar  o projeto
 execute os comandos na pasta raiz do projeto, simples assim :)
 ```
-yarn intall
+yarn install
 ```
 ```
 yarn start
